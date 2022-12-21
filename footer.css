@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #DCDCDC;
+    
+}
+
+.logomarca_footer {
+    width: 9vw;
+}
+
+.texto_footer {
+    color: #363636;
+    font-size: 1.25rem;
+    font-weight: 500;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    margin-right: 50px;
+}
